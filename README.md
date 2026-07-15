@@ -41,7 +41,7 @@ MediPidia is a healthcare web application developed using HTML. It provides user
 
 **Utsab Chowdhury**
 
-<b>GitHub:</b> https://github.com/Godson-82
+<b>GitHub:</b> https://github.com/Godson-82 <br>
 <b>LinkedIn:</b> www.linkedin.com/in/utsab-chowdhury
 
 ---
