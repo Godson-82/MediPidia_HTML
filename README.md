@@ -1,191 +1,50 @@
 # 💊 MediPidia
 
-<p align="center">
-  <img src="assets/logo.png" width="180" alt="MediPidia Logo">
-</p>
+MediPidia is a healthcare web application developed using HTML. It provides users with a simple platform to access medicine information, order medicines online, and book doctor appointments.
 
-<p align="center">
-A modern healthcare web application built using HTML that brings medicine information, online pharmacy, and doctor consultation together in one platform.
-</p>
+## Features
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-100%25-orange">
-<img src="https://img.shields.io/badge/Status-Active-success">
-<img src="https://img.shields.io/badge/License-MIT-blue">
-<img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen">
-</p>
+- 💊 Medicine search
+- 🧬 Generic medicine information
+- 🏭 Manufacturer details
+- 💰 Estimated medicine prices
+- 🛒 Online pharmacy
+- 👨‍⚕️ Doctor appointment booking
+- 💬 Doctor consultation/chat
+- 📊 Easy-to-use dashboard
 
----
-
-## 📖 About
-
-MediPidia is a healthcare web application developed to simplify access to healthcare services through a clean and intuitive interface.
-
-The platform allows users to:
-
-- 💊 Search medicine information
-- 🧪 View generic substitutes
-- 🧬 Check salt composition
-- 🏭 View manufacturer details
-- 💰 View estimated medicine prices
-- 🛒 Purchase medicines online
-- 👨‍⚕️ Book doctor appointments
-- 💬 Chat with doctors
-- 📊 Access healthcare services from a unified dashboard
-
----
-
-# ✨ Features
-
-## 💊 Medicine Encyclopedia
-
-- Medicine Search
-- Generic Medicines
-- Salt Composition
-- Medicine Alternatives
-- Manufacturer Information
-- Price Estimation
-
-## 🛒 Pharmacy
-
-- Browse Medicines
-- Add to Cart
-- Order Medicines
-- Quick Navigation
-
-## 👨‍⚕️ Doctor Portal
-
-- Doctor Profiles
-- Appointment Booking
-- Doctor Chat
-- Consultation Interface
-
-## 📊 Dashboard
-
-- Centralized Navigation
-- Quick Action Cards
-- User-Friendly Layout
-
----
-
-# 🛠 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript *(Planned / Optional)*
-- Git
-- GitHub
+- JavaScript
 
----
+## Getting Started
 
-# 📂 Project Structure
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Godson-82/MediPidia_HTML.git
+   ```
 
-```
-MediPidia_HTML/
-│
-├── Dashboard/
-├── Doctor/
-├── Pharmacy/
-├── Medicines/
-├── Images/
-├── CSS/
-├── JS/
-├── index.html
-└── README.md
-```
+2. Open the project folder.
 
----
+3. Launch `index.html` in your web browser.
 
-# 🚀 Getting Started
+## Future Improvements
 
-Clone the repository
+- User authentication
+- Backend integration
+- Database support
+- Online payment gateway
+- AI-powered healthcare assistant
+- Mobile responsive design
 
-```bash
-git clone https://github.com/Godson-82/MediPidia_HTML.git
-```
-
-Open the project
-
-```
-index.html
-```
-
-No installation or dependencies are required.
-
----
-
-# 🎯 Objectives
-
-- Make medicine information easily accessible.
-- Promote awareness of generic medicines.
-- Simplify doctor appointment booking.
-- Provide a centralized healthcare platform.
-- Create a lightweight frontend prototype for future development.
-
----
-
-# 🔮 Future Improvements
-
-- User Authentication
-- Backend Integration
-- Database Support
-- Online Payments
-- AI Healthcare Assistant
-- Medicine Recommendation System
-- Nearby Pharmacy Locator
-- Order Tracking
-- Prescription Upload
-- Dark Mode
-- Mobile Responsive Design
-- Admin Dashboard
-
----
-
-# 📷 Screenshots
-
-| Home | Dashboard | Pharmacy |
-|------|-----------|-----------|
-| Add Screenshot | Add Screenshot | Add Screenshot |
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new feature branch
-3. Commit your changes
-4. Push the branch
-5. Open a Pull Request
-
----
-
-# 👨‍💻 Developer
+## Author
 
 **Utsab Chowdhury**
 
-- B.Tech in Artificial Intelligence & Machine Learning
-- JIS College of Engineering
-- BS in Data Science and Applications, IIT Madras
-
-### Connect
-
-- GitHub: https://github.com/Godson-82
-- LinkedIn: *(Add your LinkedIn URL)*
+GitHub: https://github.com/Godson-82
 
 ---
 
-# ⭐ Show Your Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-> **Disclaimer:** MediPidia is an educational project developed for learning and demonstration purposes. It should not be considered a substitute for professional medical advice.
+⭐ If you like this project, consider giving it a star on GitHub!
