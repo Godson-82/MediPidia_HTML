@@ -15,9 +15,7 @@ MediPidia is a healthcare web application developed using HTML. It provides user
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+- HTML5 (Only)
 
 ## Getting Started
 
@@ -28,7 +26,7 @@ MediPidia is a healthcare web application developed using HTML. It provides user
 
 2. Open the project folder.
 
-3. Launch `index.html` in your web browser.
+3. Launch `medipidia.html` in your web browser.
 
 ## Future Improvements
 
@@ -43,7 +41,8 @@ MediPidia is a healthcare web application developed using HTML. It provides user
 
 **Utsab Chowdhury**
 
-GitHub: https://github.com/Godson-82
+<b>GitHub:</b> https://github.com/Godson-82
+<b>LinkedIn:</b> www.linkedin.com/in/utsab-chowdhury
 
 ---
 
